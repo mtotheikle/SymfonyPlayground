@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a8817c-10f0-46c5-a211-5231883710b7" name="Default" comment="" />
+    <ignored path="symfony-standard.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364447562852" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/app/config/_common/media_management.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364708904334" ignored="false" />
+    <file path="/media_management.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364708904334" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/app/config/_common/config.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364525133002" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/public/scss/_base.scss" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363753517835" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/layout.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709060388" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/Closet/view.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364527016280" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/MediaStorage.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364525133002" ignored="false" />
+    <file path="/MediaStorage.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364169583108" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/VimeoProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="/a.dummy" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364798791679" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/ImageProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364525133002" ignored="false" />
+    <file path="/ImageProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364272505217" ignored="false" />
+    <file path="/index.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363757029717" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/index.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364170536654" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage-bundle/Oryzone/Bundle/MediaStorageBundle/Form/Type/Builder/YoutubeFormTypeBuilder.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363757097256" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/ClosetModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364707915135" ignored="false" />
+    <file path="/ClosetModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364704124546" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/PortalBundle/Controller/ClosetsController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364170536654" ignored="false" />
+    <file path="/ClosetsController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363759616424" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/YoutubeProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="/YoutubeProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363760846459" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseCssFilter.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Filesystem/FilesystemFactory.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/ProviderInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364525133002" ignored="false" />
+    <file path="/ProviderInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364272594234" ignored="false" />
+    <file path="/view.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364526987780" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/imagine/Imagine/lib/Imagine/Gd/Image.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/imagine/Imagine/lib/Imagine/Gd/Imagine.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/symfony/symfony/src/Symfony/Component/Form/DataTransformerInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Cdn/CdnInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/composer.lock" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage-bundle/Oryzone/Bundle/MediaStorageBundle/Resources/config/provider.xml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader/schema/dic/services/services-1.0.xsd" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Cdn/LocalCdn.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/imagine/Imagine/lib/Imagine/Image/ImagineInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/imagine/Imagine/lib/Imagine/Image/ManipulatorInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage-bundle/Oryzone/Bundle/MediaStorageBundle/Resources/config/integration.xml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/imagine/Imagine/lib/Imagine/Image/ImageInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Model/MediaInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Context/ContextFactory.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Context/Context.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Context/ContextFactoryInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Context/ContextInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Variant/VariantInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Variant/VariantNode.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Variant/VariantTree.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage-bundle/Oryzone/Bundle/MediaStorageBundle/Filesystem/MapFilesystemFactory.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Variant/Variant.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/src/Limelyte/Bundle/MediaStorageBundle/Model/MediaModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364170536654" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/phpunit.xml.dist" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/VideoServiceProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/src/Limelyte/Bundle/CoreBundle/Model/Sql/AbstractSqlModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364525301870" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Filesystem.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/FileProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364525133002" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Provider/Provider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/StreamMode.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Stream.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Exception/VariantProcessingException.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/File.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Exception/MediaStorageException.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/symfony/symfony/src/Symfony/Component/Finder/SplFileInfo.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Stream/Local.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Stream/InMemoryBuffer.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/FileFactory.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Filesystem/FilesystemFactoryInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/MetadataSupporter.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/ChecksumCalculator.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/Apc.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/StreamFactory.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/Persistence/PersistenceAdapterInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssImportFilter.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/Local.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/AmazonS3.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage-bundle/Oryzone/Bundle/MediaStorageBundle/Form/DataTransformer/VideoServiceDataTransformer.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/knplabs/gaufrette/src/Gaufrette/Adapter/Ftp.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/phpunit.xml.dist" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/oryzone/media-storage/lib/Oryzone/MediaStorage/MediaStorageInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1363849303316" ignored="false" />
+    <file path="/ClosetController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364708527478" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Controller/ClosetController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709156881" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Resources/config/services.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364170985023" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Controller/BarterController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364788345427" ignored="false" />
+    <file path="/a.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364673315655" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/ARI/src/ARI/BaseBundle/Resources/config/validation.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364270608314" ignored="false" />
+    <file path="/FileProvider.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364272456720" ignored="false" />
+    <file path="/routing.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364769246222" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/config/routing.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364769246222" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Controller/CartController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364612187556" ignored="false" />
+    <file path="/CartController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364568698331" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/UserModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364790346109" ignored="false" />
+    <file path="/UserModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364790345752" ignored="false" />
+    <file path="/CartModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364759736786" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/CartModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364759786302" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Exception/CartException.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364528314443" ignored="false" />
+    <file path="/CartException.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364528308442" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/ClosetItemModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364612187556" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/Cart/index.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364612187556" ignored="false" />
+    <file path="/index.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364533229555" ignored="false" />
+    <file path="/ClosetItemModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364529941962" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/SchemaDefinition.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364789972863" ignored="false" />
+    <file path="/SchemaDefinition.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364530729835" ignored="false" />
+    <file path="/CartItemModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364568357181" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/CartItemModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364612187556" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/BarterModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364775996673" ignored="false" />
+    <file path="/AbstractBarterModelType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364788567142" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/BarterType/AbstractBarterModelType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364788567836" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/_partials/header.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364707738399" ignored="false" />
+    <file path="/header.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364707737860" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/_partials/cart.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364704690187" ignored="false" />
+    <file path="/cart.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364704644591" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/BarterModelManager.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364788626328" ignored="false" />
+    <file path="/BarterModelManager.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364788624964" ignored="false" />
+    <file path="/PurchaseBarterModelType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364773575763" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/BarterType/PurchaseBarterModelType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364773667193" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/TransactionHistory/barter.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364768315997" ignored="false" />
+    <file path="/barter.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364768315428" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Controller/TransactionHistoryController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364708223212" ignored="false" />
+    <file path="/TransactionHistoryController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364673432217" ignored="false" />
+    <file path="/BarterModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364775120754" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364676052739" ignored="false" />
+    <file path="/Connection.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364675834208" ignored="false" />
+    <file path="/BarterController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364775410190" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Controller/PaymentController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364760742571" ignored="false" />
+    <file path="/PaymentController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364759941680" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/scss/_header.scss" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364704959159" ignored="false" />
+    <file path="/_header.scss" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364704815047" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/Form/bc_base_barter.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364707036116" ignored="false" />
+    <file path="/bc_base_barter.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364707036116" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/Closet/featured.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709241729" ignored="false" />
+    <file path="/featured.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709233170" ignored="false" />
+    <file path="/layout.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709037360" ignored="false" />
+    <file path="/ClosetModelManager.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709116122" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/ClosetModelManager.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364709133860" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/BarterType/BarterModelTypeInterface.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364776005568" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/TransactionHistory/index.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364768210240" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Controller/UserController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791868050" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Form/Type/ManageInfoFormType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364771777645" ignored="false" />
+    <file path="/ManageInfoFormType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364790109302" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/BarterType/NegotiatedBarterModelType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364773561692" ignored="false" />
+    <file path="/NegotiatedBarterModelType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364773560263" ignored="false" />
+    <file path="/PaymentInstructionModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364774093275" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Model/PaymentInstructionModel.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364774093275" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Form/Type/ManageInfoFormType.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364790248706" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/config/forms.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364788980423" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/BaseBundle/Resources/config/forms.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364789393385" ignored="false" />
+    <file path="/forms.yml" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364789144018" ignored="false" />
+    <file path="/UserController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791815290" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/User/my_account.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791848690" ignored="false" />
+    <file path="/my_account.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791848352" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/Resources/views/Form/bc_base_manage_info.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791507516" ignored="false" />
+    <file path="/bc_base_manage_info.html.twig" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791507516" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/src/BC/WebBundle/DependencyInjection/BCWebExtension.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364789243305" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/BartersClosetSF2.1/vendor/limelyte/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DateTimeToLocalizedStringTransformer.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364791092699" ignored="false" />
+    <file path="/PluginController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364795784136" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/forks/JMSPaymentCoreBundle/PluginController/PluginController.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364798777054" ignored="false" />
+    <file path="$PROJECT_DIR$/../Projects/forks/JMSPaymentPaypalBundle/Plugin/ExpressCheckoutPlugin.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364797784298" ignored="false" />
+    <file path="/app.php" changelist="77a8817c-10f0-46c5-a211-5231883710b7" time="1364961569310" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="symfony-standard" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="49" selection-start="835" selection-end="835" vertical-scroll-proportion="-4.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="2" selection-start="412" selection-end="412" vertical-scroll-proportion="0.30150753">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/DemoController.php" />
+        <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
+        <option value="$PROJECT_DIR$/src/Acme/DemoBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/src/Acme/DemoBundle/Entity/UserRole.php" />
+        <option value="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/UserController.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/FormEvents.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/HttpFoundation/EventListener/BindRequestListener.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/Type/ChoiceType.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Form/Type/DoctrineType.php" />
+        <option value="$PROJECT_DIR$/src/Acme/DemoBundle/Form/UserType.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/web/app.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="22" />
+    <option name="width" value="1219" />
+    <option name="height" value="769" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-standard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-standard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-standard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-standard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-standard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="042127c3-0b39-4baf-902a-3b269c4d5475">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="0696ab84-0466-4277-81cc-e4b297ea770f">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="0a315c21-16f6-4781-a782-1e4dda5060f7">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="10748fd5-a46a-4cef-836b-e6073da22363">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="3635c37e-34fa-4788-a01a-5fedc9e5695e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="40899a9f-4448-4f13-b032-8dc9a175008e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="474cda02-8999-450b-922d-c21de6e48e3c">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="4cea10a5-478e-49f6-b588-c72cfd2ae5db">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="522b0c8c-42c1-4be0-affe-5ea7921af9ac">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="54085448-d562-446d-bcc9-d73938c03fcd">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="5f15eb2d-23b9-459a-8867-41209bbf2b55">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="69e79d01-a867-4584-89f6-6f0fb529ad4f">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="76031f35-4ad5-415b-bb04-a0edba8d5626">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="76cc8563-e661-48ad-8297-f296f2fbffcc">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="7d080d7c-3752-4060-9d52-275c4da1cd4e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="824d8053-109b-4195-b070-2204101e2fbe">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="8ced02eb-cbbd-425e-a879-c0a4fa38527e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="c0898257-8b11-456d-9df8-0873c1bfeb2b">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="cdebe4df-adfd-4733-865f-f376a2cf4eb9">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="da0da2cc-3ed7-481b-9641-ba97bfa4c18f">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="dc74fa36-3e4c-4c87-8595-2f857b40217d">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="edb8a106-6d2d-4257-a25c-e8dad3b2d78f">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="f1a98324-7e9e-4a5d-ac51-fceb31a364f2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="fc2f56d5-4476-4845-b0fd-990ba280cca2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a8817c-10f0-46c5-a211-5231883710b7" name="Default" comment="" />
+      <created>1362718221184</created>
+      <updated>1362718221184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="22" width="1219" height="769" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23870417" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24978687" sideWeight="0.49537036" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/FormConfigBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="847" selection-end="847" vertical-scroll-proportion="0.32072368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Entity/UserRole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="663" column="52" selection-start="22142" selection-end="22142" vertical-scroll-proportion="0.3327645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/OptionsResolver/OptionsResolverInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="20" selection-start="1205" selection-end="1205" vertical-scroll-proportion="-0.99499166" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/SimpleChoiceList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="20" selection-start="1591" selection-end="1591" vertical-scroll-proportion="0.947099" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/FormEvents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="19" selection-start="437" selection-end="446" vertical-scroll-proportion="0.37562606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Form/Type/EntityType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="27" selection-start="426" selection-end="426" vertical-scroll-proportion="0.2173913" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/ChoiceList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="20" selection-start="6434" selection-end="6434" vertical-scroll-proportion="0.3327645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/EventListener/FixCheckboxInputListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="61" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.6135266" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Form/UserType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="8" selection-start="377" selection-end="377" vertical-scroll-proportion="0.38527396">
+          <folding>
+            <element signature="e#40#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Form/ChoiceList/EntityChoiceList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="410" column="21" selection-start="12022" selection-end="12022" vertical-scroll-proportion="0.48630136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Form/Type/DoctrineType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="10" selection-start="18" selection-end="20" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="29" selection-start="2540" selection-end="2540" vertical-scroll-proportion="0.025684932">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="0" selection-start="2088" selection-end="2088" vertical-scroll-proportion="0.32160804">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="49" selection-start="835" selection-end="835" vertical-scroll-proportion="-4.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="412" selection-end="412" vertical-scroll-proportion="0.30150753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
